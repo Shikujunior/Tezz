@@ -1,4 +1,4 @@
-let firstName = "shiku";
-let lastName= "junior";
-let userName= "firstName" + "lastName";
-console.log(userName)
+let firstName="techla";
+let lastName="college";
+let user=firstName + " " + lastName;
+console.log(user);
